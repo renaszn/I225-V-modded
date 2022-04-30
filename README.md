@@ -1,4 +1,4 @@
-# i225-V-modded
+# I225-V-modded
 🇺🇸:
 1- Extract the folder
 2- Windows + R > CMD > bcdedit /set testsigning on
