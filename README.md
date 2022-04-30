@@ -1,5 +1,8 @@
 # I225-V-modded
 🇺🇸:
+
+
+
 1- Extract the folder
 
 
@@ -35,6 +38,9 @@
 
 
 🇪🇸:
+
+
+
 1- Extraer la carpeta
 
 
