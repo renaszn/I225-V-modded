@@ -2,11 +2,11 @@
 
 
 
-1- Extract the folder
+1- Extract the folder.
 
 
 
-2- Windows + R > CMD > bcdedit /set testsigning on
+2- Windows + R > CMD > "bcdedit /set testsigning on".
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-4- Windows + R > devmgmt.msc
+4- Windows + R > "devmgmt.msc".
 
 
 
@@ -22,13 +22,13 @@
 
 
 
-6- Select "e2f68"
+6- Select "e2f68".
 
 
 
-7- Windows + R > CMD > bcdedit /set testsigning off
+7- Windows + R > CMD > "bcdedit /set testsigning off".
 
 
 
-8- Restart
+8- Restart.
 
