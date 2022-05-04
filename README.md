@@ -1,5 +1,4 @@
-# I225-V-modded
-🇺🇸:
+# How to install? 
 
 
 
@@ -33,38 +32,3 @@
 
 8- Restart
 
-
-
-🇪🇸:
-
-
-
-1- Extraer la carpeta
-
-
-
-2- Windows + R > CMD > bcdedit /set testsigning on
-
-
-
-3- Reiniciar
-
-
-
-4- Windows + R > devmgmt.msc
-
-
-
-5- Adaptadores de red > Actualizar software de controlador... >  Buscar controladores en mi equipo > Elegir una lista de controladores disponibles en el equipo > Usar Disco > Examinar...
-
-
-
-6- Seleccionar "e2f68"
-
-
-
-7- Windows + R > CMD > bcdedit /set testsigning off
-
-
-
-8- Reiniciar
